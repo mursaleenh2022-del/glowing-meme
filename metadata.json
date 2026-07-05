@@ -1,0 +1,6 @@
+{
+  "name": "Egypt Trip 2026",
+  "description": "Personalized luxury expedition website hosted by Josh Earl featuring ancient hieroglyph reveals, city spotlights, day-by-day itineraries, and guest intake registry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
